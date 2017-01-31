@@ -28,6 +28,7 @@ for linea in lineas:
 
 print ("El numero de usuarios es " + str (len (lineas)))
 
+
 #for linea in lineas:
 #	login = linea.split (':')[0]
 #	shell = linea.split (':')[-1][:-1]
