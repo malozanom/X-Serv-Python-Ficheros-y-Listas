@@ -3,7 +3,7 @@
 # Miguel Ángel Lozano Montero.
 # Programa que obtiene de /etc/passwd la lista de usuarios y la shell que usa.
 
-fich = open ("/etc/passwd","r")
+fich = open ("/etc/passwd", "r")
 lineas = fich.readlines ()
 fich.close ()
 
